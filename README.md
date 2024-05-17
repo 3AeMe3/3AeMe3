@@ -18,11 +18,15 @@ I am a developer with little experience but eager to learn. I love to learn new 
 This is a project in which I learned : C# Events, C# Interfaces,etc.  
 - **Features:** Project based on the Overcooked saga guided by the Youtuber Code Monkey.
 - **Screenshots:** 
- ![Screenshot](C:\Users\JEANPIERO\Downloads\imagenes.jpg) 
+process.
 
 
 
 <!--
+
+ ![Screenshot](C:\Users\JEANPIERO\Downloads\imagenes.jpg) 
+
+
   ![GIF del Juego](https://ruta-a-tu-gif.com/gif1.gif)
 
 
