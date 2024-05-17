@@ -14,7 +14,7 @@ I am a developer with little experience but eager to learn. I love to learn new 
  
 ## Featured Projects
 
-### [Project 1: Game Name](https://github.com/3AeMe3/KitchenChaos)
+### [Project 1: KitchenChaos](https://github.com/3AeMe3/KitchenChaos)
 This is a project in which I learned : C# Events, C# Interfaces,etc.  
 - **Features:** Project based on the Overcooked saga guided by the Youtuber Code Monkey.
 - **Screenshots:** 
