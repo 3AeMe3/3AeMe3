@@ -9,7 +9,7 @@ I am a developer with little experience but eager to learn. I love to learn new 
 
 - **Programming languages:** C# (with Unity)
 - **Game Engine:** Unity
-- **Software:** Blender,Photoshop(basic)
+- **Software:** Blender, Photoshop(basic)
 - **Other technologies:** Basic knowledge of Java and HTML
 
 
