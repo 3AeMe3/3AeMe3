@@ -9,9 +9,11 @@ I am a developer with little experience but eager to learn. I love to learn new 
 
 - **Programming languages:** C# (with Unity)
 - **Game Engine:** Unity
-- **Art:** Blender 
+- **Software:** Blender,Photoshop(basic)
 - **Other technologies:** Basic knowledge of Java and HTML
- 
+
+
+ <!--
 ## Featured Projects
 
 ### [Project 1: KitchenChaos](https://github.com/3AeMe3/KitchenChaos)
@@ -22,7 +24,7 @@ process.
 
 
 
-<!--
+
 
  ![Screenshot](C:\Users\JEANPIERO\Downloads\imagenes.jpg) 
 
