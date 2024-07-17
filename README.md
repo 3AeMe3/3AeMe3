@@ -7,13 +7,13 @@ I am a developer with little experience but eager to learn. I love to learn new 
 
 ## Skills
 
-- **Programming languages:** C# (with Unity)
+- **Programming languages:** C# (with Unity), Html 5, Css
 - **Game Engine:** Unity
-- **Software:** Blender, Photoshop(basic)
-- **Other technologies:** Basic knowledge of Java and HTML
+- **Software:** Blender, Photoshop(basic), Visual Studio Code
 
 
- <!--
+
+
 ## Featured Projects
 
 ### [Project 1: KitchenChaos](https://github.com/3AeMe3/KitchenChaos)
@@ -22,7 +22,7 @@ This is a project in which I learned : C# Events, C# Interfaces,etc.
 - **Screenshots:** 
 process.
 
-
+ <!--
 
 
 
