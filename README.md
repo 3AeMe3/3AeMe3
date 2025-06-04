@@ -1,7 +1,7 @@
 
 
-# Hello World!, 👋🏼 I'm Frank :
-👨🏼‍💻 Soy Fronted Developer con ganas de crecer cada día. Aunque no tengo experiencia profesional en frontend todavía, estoy construyendo mi camino con constancia y enfoque.
+# Hello World!, 👋🏼 Soy Frank
+👨🏼‍💻 Fronted Developer con ganas de crecer cada día. Aunque no tengo experiencia profesional en frontend todavía, estoy construyendo mi camino con constancia y enfoque.
 
 
 # 💻 Tech Stack:
